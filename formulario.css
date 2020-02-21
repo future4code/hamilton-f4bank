@@ -1,0 +1,75 @@
+section{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('./imagens/orange.jpg');
+    padding: 20px;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h2{
+    font-size: 20px;
+    color: white;
+}
+.formContainer{
+    max-width: 230px;
+    background:linear-gradient(208.07deg,#FF914D,#FF500F);
+    padding: 20px;
+    float: right;
+    color: rgba(233, 233, 141, 0.856);
+    font-weight: bold;
+}
+
+.form{
+    margin-bottom: 15px;
+}
+
+input, select{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+input[type="submit"]{
+    color: white;
+    background-color:#80B636;
+    font-weight: bold;
+    -webkit-border-radius: 30px 30px;
+    border-radius: 30px 30px;
+}
+
+/**************** Footer **************/
+.icons{
+ 
+    display: flex;
+    margin: 5px;
+    padding: 2px;
+    text-align: center;
+    justify-content: center;  
+    
+}
+
+.rede-github, .rede-instagram, .rede-email, .rede-linkedin{
+    width: 35px;
+    margin: 50px;
+    text-align: center;
+}
+
+
+footer{
+    
+    height: 10vh;
+    background:linear-gradient(208.07deg,#FF914D,#FF500F);
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+          
+}
+
+
+
+
+
+
