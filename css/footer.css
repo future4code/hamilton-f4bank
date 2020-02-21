@@ -1,0 +1,26 @@
+/*ESTILO FOOTER*/
+
+.icons{
+ 
+    display: flex;
+    margin: 5px;
+    padding: 2px;
+    text-align: center;
+    justify-content: center;  
+    
+}
+.rede-github, .rede-instagram, .rede-email, .rede-linkedin{
+    width: 35px;
+    margin: 50px;
+    text-align: center;
+}
+footer{
+    
+    height: 10vh;
+    background:linear-gradient(208.07deg,#FF914D,#FF500F);
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+          
+}

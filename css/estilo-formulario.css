@@ -1,0 +1,54 @@
+
+
+/*ESTILO DO FORMULARIO*/
+
+section{
+    
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('./imagens/orange.jpg');
+    padding: 20px;
+    background-size: cover;
+    overflow: hidden;
+   
+}
+
+.section-formulario {
+    display: flex;
+    align-content: flex-end;
+    align-items: center;
+    justify-content: space-between;
+    width: 980px;
+    margin: 0 auto;
+}
+h2{
+    font-size: 20px;
+    color: white;
+}
+.formContainer{
+    width: 350px;
+    height: ;
+    background:linear-gradient(208.07deg,#FF914D,#FF500F);
+    padding: 20px;
+    float: right;
+    color: rgba(233, 233, 141, 0.856);
+    font-weight: bold;
+}
+.form{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+input, select{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    color: white;
+    background-color:#80B636;
+    font-weight: bold;
+    -webkit-border-radius: 30px 30px;
+    border-radius: 30px 30px;
+}
