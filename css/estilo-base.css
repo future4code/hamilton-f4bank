@@ -2,9 +2,12 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+    text-decoration: none;
 }
 
 body{
+
+    
     background-color: #FF914D;
     font-family: 'Roboto';
     
@@ -12,5 +15,6 @@ body{
 }
 
 .div-pai {
+    margin: 0 auto;
     max-width: 1200px;
 }
