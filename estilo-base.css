@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+body{
+    background:linear-gradient(208.07deg,#FF914D,#ff500f);
+    font-family: 'Roboto';
+    
+    
+}
+
+.header-navegacao {
+    margin-right: 2em;
+    padding: 1em;
+    justify-content: flex-end;
+    font-size: 1.3em;
+    color:  rgb(255, 255, 255);
+    display: flex;
+}
+
+.header-navegacao div {
+    padding: 2em;
+
+}
