@@ -1,0 +1,26 @@
+
+/* ESTILO DO HEADER E NAVEGAÇÃO */
+
+.header-navegacao {
+    max-width: 970px;
+    margin: 0 auto;
+    margin-right: 2em;
+    padding: 0.2em;
+    justify-content: space-between;
+    font-size: 1.3em;
+    color:  rgb(255, 255, 255);
+    display: flex;
+    font-family: 'Lato'
+}
+
+
+.header-navegacao img {
+    width: 150px;
+    justify-content: flex-start;
+}
+
+.header-navegacao div {
+    
+    padding: 2em;
+
+}
